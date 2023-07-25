@@ -1,0 +1,22 @@
+.sub-img {
+    width: 230px;
+    height: 230px;
+    transition: transform 1s;
+}
+
+.sub-img:hover {
+    transform: rotate(10deg);
+}
+
+.rounded-pill:hover {
+    background-color: white !important;
+    color: black !important;
+}
+
+.dhakan {
+    transition: transform 0.2s;
+}
+
+.dhakan:hover {
+    transform: rotate(190deg);
+}
